@@ -65,4 +65,4 @@ if __name__=="__main__":
     if len(sys.argv) > 1:        
         mailer(sys.argv[1])
     else:
-        mailer("input.txt")
+        mailer("input_.txt")
