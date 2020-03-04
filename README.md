@@ -1,5 +1,5 @@
 # Mailer
-send email from the huge list
+send email from the huge list of emails.
 
 How to Execute
 ==============
